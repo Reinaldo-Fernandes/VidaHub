@@ -37,3 +37,47 @@ Este projeto foi criado para **aumentar o foco e a produtividade diária**, cent
 ---
 
 ## ⚙️ Estrutura do Projeto
+
+
+---
+
+## ✨ Diferenciais
+
+- Interface limpa e responsiva
+- Animações suaves com foco na experiência do usuário
+- Visual dinâmico baseado no clima atual
+- Tarefas com alertas visuais para horários próximos
+- Código modular e comentado
+
+---
+
+## 🚧 Possíveis melhorias
+
+- Sistema de notificações sonoras
+- Integração com calendário externo
+- Suporte a múltiplos usuários
+
+---
+
+## 🧠 Tecnologias Utilizadas
+
+- HTML5, CSS3 (Flex/Grid), JS Vanilla
+- API OpenWeather (clima)
+- Web Storage (localStorage)
+- Geolocation API
+
+---
+
+## 📌 Como usar
+
+1. Clone ou baixe este repositório.
+2. Abra o `index.html` em um navegador moderno.
+3. Permita o uso da localização para exibir o clima.
+4. Organize seu dia! 😉
+
+---
+
+## 📝 Licença
+
+Projeto pessoal, gratuito para uso e customização. Se for publicar, mantenha os créditos. ✌️
+
